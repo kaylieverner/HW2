@@ -1,0 +1,30 @@
+* {
+    font-family: 'Thasadith', sans-serif;
+  }
+
+  .container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .jumbotron-custom {
+    height: 600px;
+  }
+
+  #jumbotronheader {
+    font-family: 'Comfortaa', cursive;
+    ;
+    color: white;
+    letter-spacing: 4px;
+  }
+
+  .aboutImg {
+    border-radius: 50%;
+    max-width: 30%;
+    height: auto;
+  }
+
+  .contactIcon {
+      height: 40px;
+      width: 40px;
+  }
